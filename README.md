@@ -98,4 +98,4 @@ Activity:
 
 效果图：
 
-![demo](http://yun.baidu.com/share/link?shareid=674977277&uk=2502067285)
+![demo](http://d.pcs.baidu.com/thumbnail/2d58e6771acdea96fe7e92b9db11d0ca?fid=2502067285-250528-1063073775738133&time=1451404800&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-3X3OtdKz699vojFp8YI6w6v6cso%3D&rt=sh&expires=2h&r=307966667&sharesign=unknown&size=c710_u500&quality=100)
